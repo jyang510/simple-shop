@@ -22,9 +22,9 @@ function App() {
       <WholePage>
         <Container>
           <Routes>
-            <Route exact path="/" element={<HomePage />} />
-            <Route path="/products/:id" element={<ProductPage />} />
-            <Route path="/products/buy/:id" element={<PurchasePage />} />
+            <Route exact path="/simple-shop" element={<HomePage />} />
+            <Route path="/simple-shop/products/:id" element={<ProductPage />} />
+            <Route path="/simple-shop/products/buy/:id" element={<PurchasePage />} />
           </Routes>
         </Container>
       </WholePage>
