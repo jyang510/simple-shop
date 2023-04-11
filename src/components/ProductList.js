@@ -9,12 +9,12 @@ const ProductListContainer = styled.div`
   gap: 20px;
 `;
 
-function ProductList() {
-  const [products, setProducts] = useState([]);
+function ProductList({products}) {
+  // const [products, setProducts] = useState([]);
 
-  useEffect(() => {
-    setProducts(productsData);
-  }, []);
+  // useEffect(() => {
+  //   setProducts(productsData);
+  // }, []);
 
   return (
     <ProductListContainer>
