@@ -40,5 +40,75 @@
       "description": "네이비 컬러의 클래식한 디자인의 셔츠입니다.",
       "price": 25000,
       "image": "tucm.jpg"
+    },
+    {
+      "id": 7,
+      "name": "마우스",
+      "description": "게임용 유선 마우스",
+      "price": 35000,
+      "image": "mouse.jpg"
+    },
+    {
+      "id": 8,
+      "name": "키보드",
+      "description": "LED 백라이트 기능이 있는 유선 키보드",
+      "price": 55000,
+      "image": "keyboard.jpg"
+    },
+    {
+      "id": 9,
+      "name": "이어폰",
+      "description": "안정적으로 귀에 맞아 떨어지지 않는 이어폰",
+      "price": 25000,
+      "image": "earphone.jpg"
+    },
+    {
+      "id": 10,
+      "name": "노트북",
+      "description": "인텔 코어 i7 8세대 CPU, 8GB RAM, 512GB SSD 탑재",
+      "price": 1500000,
+      "image": "laptop.jpg"
+    },
+    {
+      "id": 11,
+      "name": "스마트워치",
+      "description": "갤럭시 스마트워치",
+      "price": 350000,
+      "image": "smartwatch.png"
+    },
+    {
+      "id": 12,
+      "name": "데스크탑",
+      "description": "인텔 코어 i9 11세대 CPU, 32GB RAM, 1TB SSD 탑재",
+      "price": 3000000,
+      "image": "desktop.PNG"
+    },
+    {
+      "id": 13,
+      "name": "전기밥솥",
+      "description": "1인용 전기밥솥으로 식사 준비가 간편합니다.",
+      "price": 45000,
+      "image": "rice_cooker.jpg"
+    },
+    {
+      "id": 14,
+      "name": "청소기",
+      "description": "강력한 흡입력과 무선으로 사용하기 편한 청소기입니다.",
+      "price": 120000,
+      "image": "vacuum_cleaner.jpg"
+    },
+    {
+      "id": 15,
+      "name": "식기건조대",
+      "description": "대용량 식기건조대로 대용량 세척기도 쉽게 맞춰 사용할 수 있습니다.",
+      "price": 55000,
+      "image": "dish_rack.PNG"
+    },
+    {
+      "id": 16,
+      "name": "보온병",
+      "description": "보온력이 뛰어나서 뜨거운 음료도 오래 오래 즐길 수 있는 보온병입니다.",
+      "price": 25000,
+      "image": "thermos.jpg"
     }
 ]

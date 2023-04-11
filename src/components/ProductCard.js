@@ -49,7 +49,7 @@ const StyledLink = styled(Link)`
 function ProductCard({ product }) {
   return (
     <Card>
-      <StyledLink to={`/products/${product.id}`}>
+      <StyledLink to={`/simple-shop/products/${product.id}`}>
         <Image src={require(`../image/${product.image}`)} alt={product.name} />
         <Title>{product.name}</Title>
         <Description>{product.description}</Description>

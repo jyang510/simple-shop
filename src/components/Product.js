@@ -65,7 +65,7 @@ function Product({ product }) {
       <ProductName>{product.name}</ProductName>
       <ProductDescription>{product.description}</ProductDescription>
       <ProductPrice>{product.price}원</ProductPrice>
-      <StyledLink to={`/products/buy/${product.id}`}>
+      <StyledLink to={`/simple-shop/products/buy/${product.id}`}>
         <ProductBuyButton>구매하기</ProductBuyButton>
       </StyledLink>
     </ProductContainer>

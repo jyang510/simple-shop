@@ -43,7 +43,7 @@ function Header() {
       <nav>
         <Links>
           <li>
-            <StyledLink to="/">Home</StyledLink>
+            <StyledLink to="/simple-shop">Home</StyledLink>
           </li>
         </Links>
       </nav>
